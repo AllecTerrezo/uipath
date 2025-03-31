@@ -1,0 +1,19 @@
+{
+  "version": "2.0",
+  "resources": [
+    {
+      "resource": "asset",
+      "value": {
+        "folderPath": {
+          "defaultValue": "InstagramBots",
+          "isExpression": false
+        },
+        "name": {
+          "defaultValue": "AchadosKey",
+          "isExpression": false
+        }
+      },
+      "metadata": {}
+    }
+  ]
+}
